@@ -1,5 +1,5 @@
 <?php 
-// Xxample of get request from loxone Miniserver for forecast:
+// Example of get request from loxone Miniserver for forecast:
 // http://weather.loxone.com:6066/forecast/?user=loxone_00000000000&coord=00.0000,01.0000&asl=83&format=1&new_api=1
 // 00000000000 - serial number of Loxone Miniserver
 // 00.0000 - longitude
