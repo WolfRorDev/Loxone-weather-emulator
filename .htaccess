@@ -1,0 +1,3 @@
+RewriteEngine On
+DirectoryIndex forecast.php
+RewriteRule ^forecast/$ forecast.php [L]
